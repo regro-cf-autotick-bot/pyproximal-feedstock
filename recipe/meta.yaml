@@ -24,7 +24,7 @@ requirements:
     - python >={{ python_min }}
     - numpy >=1.21.0
     - scipy >=1.11.0
-    - pylops >=2.0.0
+    - pylops >=2.4.0
     - typing-extensions
 
 test:
